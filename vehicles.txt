@@ -1,0 +1,7 @@
+FourWheeler,Creata,MH09NH3601,3.0,12/03/2023,2500,1,Unallocated
+FourWheeler,Venue,MH09FQ2544,2.0,22/12/2021,2000,1,Unallocated
+FourWheeler,Creata,MH09JH6541,1.0,12/05/2024,2250,1,Unallocated
+Bike,Duke390,MH11HG2102,1.0,30/01/2023,900,1,Unallocated
+Bike,PassionPro,MH05KL5214,3.0,12/06/2025,750,1,Unallocated
+Scooty,Access125,MH09FD5826,2.0,14/11/2020,500,0,Govind
+Scooty,Pleasure,MH00HG2003,2.0,12/12/2023,1000,0,Unallocated
